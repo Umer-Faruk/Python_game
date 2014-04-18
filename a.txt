@@ -1,0 +1,70 @@
+What is the binary representation of 15.5 base 10? :1111.1::::
+What is the binary representation of 65 octal?: 110101::::
+What is the octal sum of 064321 octal and 016477 octal?: 103020::::
+Which of the following reads a source program one statement at a time and causes the execution of that statement?:w) assembler:x) compiler:y) lister:z) interpreter::
+ANSWER: Z -- INTERPRETER::::
+Subtract in base 2: 1011 - 110:
+ANSWER: 101::::
+Place the following programming languages in chronological order
+with regard to their first introduction to the computing public: BASIC, ALGOL, Pascal,
+FORTRAN
+ANSWER: FORTRAN, ALGOL, BASIC, PASCAL
+Place the following in order from the smallest unit of memory to the
+largest: block, byte, bit, word
+ANSWER: BIT, BYTE, WORD, BLOCK
+Which of the following is characteristic of the first generation of
+digital computers?
+w) vacuum tubes
+x) transistors
+y) semi-conductors
+z) chips
+ANSWER: W -- VACUUM TUBES
+What are graphs of mathematical sets called?
+ANSWER: VENN DIAGRAMS
+What is the material from which most micro-electronic chips are made?
+ANSWER: SILICON
+How many nibbles are in a byte?
+ANSWER: TWO
+What is the 10's complement of 45?
+ANSWER: 55
+The offsetting of the tremendous variation in I/O speeds for various
+devices by the use of a device of intermediate speed is known as:
+w) unbundling
+x) channeling
+y) spooling
+z) loading
+ANSWER: Y -- SPOOLING
+Second generation computers replaced vacuum tubes with what
+electronic device?
+ANSWER: TRANSISTOR
+The following equation is found in a program written in BASIC:
+y = 2 - A*B (read: y equals 2 minus A star X)
+What is the first mathematical manipulation carried out by the computer?
+ANSWER:MULTIPLICATION
+A BASIC program executes the following five statements:
+J=2
+K=5
+For I = 1 to 4 (read: For I equals 1 to 4)
+J=J+I
+Next I
+What is the final value of J?
+ANSWER: 12
+A parity check can be used to check for:
+w) programming logic errors
+x) divisions by zero
+y) undefined variables
+z) internal computer errors
+ANSWER:Z -- INTERNAL COMPUTER ERRORS
+A cache (pron: cash) is:
+w) a low speed buffer memory
+x) a high speed buffer memory
+y) ROM
+z) a register
+ANSWER:X -- A HIGH SPEED BUFFER MEMORY
+
+
+
+
+
+
+
